@@ -36,7 +36,6 @@ while True:
         config = full_load(open('config.yml', 'r', errors='ignore'))
         break
     except FileNotFoundError:
-        print(f'{Fore.LIGHTCYAN_EX}Config file not found, creating config file and loading default values...\n')
         open('config.yml', 'w').write(default_values)
         system('cls')
 
