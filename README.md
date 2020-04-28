@@ -19,3 +19,4 @@ You can support me by tipping me with BAT or starting using Brave https://brave.
 
 # Terms and conditions
 This repository is for educational purposes only.
+I am not responsible for any actions you do.
